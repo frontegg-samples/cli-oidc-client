@@ -1,0 +1,39 @@
+{
+  "name": "oidc-client",
+  "version": "1.0.0",
+  "description": "Sample on how to use the Frontegg login with open id connect client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontegg-samples/oidc-client.git"
+  },
+  "keywords": [
+    "oidc",
+    "login",
+    "authentication",
+    "oauth",
+    "frontegg",
+    "nodejs"
+  ],
+  "author": "Frontegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frontegg-samples/oidc-client/issues"
+  },
+  "bin": {
+    "cli-sample": "./index.js"
+  },
+  "homepage": "https://github.com/frontegg-samples/oidc-client#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0",
+    "conf": "^10.1.2",
+    "express": "^4.18.1",
+    "open": "^8.4.0",
+    "openid-client": "^5.1.6"
+  }
+}
