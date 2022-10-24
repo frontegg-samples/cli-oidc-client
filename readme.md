@@ -7,7 +7,7 @@ The idea is to demonstrate how CLI should act with oidc client using the hosted 
 
 After cloning the project, install it using
 
-### `npm i -g`
+### `npm i && npm i -g`
 
 In order to see the login CLI in action, run the following command:
 ### `cli-sample login`

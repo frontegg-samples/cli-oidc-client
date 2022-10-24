@@ -1,5 +1,5 @@
 {
-  "name": "oidc-client",
+  "name": "cli-sample",
   "version": "1.0.0",
   "description": "Sample on how to use the Frontegg login with open id connect client",
   "main": "index.js",
